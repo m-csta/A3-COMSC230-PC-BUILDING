@@ -184,7 +184,10 @@ footer{
     header nav,
     header nav li,
     #newsletter h1,
-    #newsletter form{
+    #newsletter form,
+    #boxes .box,
+    article#main-col,
+    aside#sidebar{
         float:none;
         text-align:center;
         width:100%;
@@ -193,7 +196,16 @@ footer{
         padding-bottom:20px;
     }
     #showcase h1{
-        margin:40px;
+        margin-top:40px;
+    }
+    #newsletter button{
+        display:block;
+        width:100%;
+
+    }
+    #newsletter form input[type="email"]{
+        width:100%;
+        margin-bottom:5px;
     }
 
 }
