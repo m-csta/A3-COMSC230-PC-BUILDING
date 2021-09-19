@@ -38,5 +38,22 @@ header ul{
 header li{
     float: left;
     display: inline;
-    padding: 0 0 0 0;
+    padding: 0 20px 0 20px;
+}
+
+header #branding{
+    float:left;
+}
+
+header #branding h1{
+    margin: 0;
+}
+header nav{
+    float: right;
+    margin-top: 10px;
+}
+
+header .highlight, header .current a{
+    color: #e8491d;
+    font-weight:bold;
 }
