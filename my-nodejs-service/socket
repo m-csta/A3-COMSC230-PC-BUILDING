@@ -1,0 +1,4 @@
+ip address A Port 8080
+ip address B Port 7654
+
+Sockets are how connections are made across the internet between a process running on a machine A and a process running on machine B.
