@@ -105,6 +105,21 @@ header a:hover{
     font-size:20px;
 }
 
+/*Description*/
+#description{
+    color: white;
+    margin-top:40px;
+    margin-right:400px;
+    margin-left:400px;
+    margin-bottom:40px;
+    font-size:15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-bottom:#e8491d 3px solid;
+    border-top:#e8491d 3px solid;
+    border-right:#e8491d 3px solid;
+    border-left:#e8491d 3px solid;
+    background-color:#35424a;
+}
 /*Newsletter*/
 #newsletter{
     padding:15px;
